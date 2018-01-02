@@ -1,9 +1,9 @@
 # Markdown Exercise
-**Text**
+## Text
 it's very easy to make some words **bold** and other words *italic* with Markdown.
 You can even [link to baidu](http://www.baidu.com)
 
-#Lists
+## Lists
 1. one
 2. two
 3. three
@@ -15,7 +15,7 @@ You can even [link to baidu](http://www.baidu.com)
   - like this
   * and this
 
-# Images
+## Images
 ![Image of yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Headers & Quotes
@@ -25,7 +25,7 @@ You can even [link to baidu](http://www.baidu.com)
 > 引用
 > -黄智
 
-# 更多
+## 更多
 GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater!
 
 But I have to admit, tasks lists are my favorite:
